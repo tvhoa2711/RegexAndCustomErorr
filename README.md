@@ -28,8 +28,8 @@ Trong Java, Regex được hỗ trợ mạnh mẽ thông qua:
 ## 2. Chi Tiết Cú Pháp Regex Thông Dụng
 
 ### 2.1. Ký hiệu cơ bản & Neo chuỗi (Anchors)
-* `^`: Neo bắt đầu chuỗi (ví dụ: `^A` nghĩa là chuỗi phải bắt đầu bằng chữ `A`).
-* `$`: Neo kết thúc chuỗi (ví dụ: `Z$` nghĩa là chuỗi phải kết thúc bằng chữ `Z`).
+* `^`: Nơi bắt đầu chuỗi (ví dụ: `^A` nghĩa là chuỗi phải bắt đầu bằng chữ `A`).
+* `$`: Nơi kết thúc chuỗi (ví dụ: `Z$` nghĩa là chuỗi phải kết thúc bằng chữ `Z`).
 * `.`: Đại diện cho **một ký tự bất kỳ** (ngoại trừ dấu xuống dòng `\n`).
 
 ### 2.2. Bộ lượng từ (Quantifiers) - Số lần lặp lại
